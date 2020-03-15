@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  MultiTube
 //
-//  Created by YUICHIRO MORI on 2020/03/15.
+//  Created by Mohrey Y. on 2020/03/15.
 //  Copyright © 2020 Mohrey Y. All rights reserved.
 //
 
